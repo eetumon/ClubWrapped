@@ -1,4 +1,4 @@
-# ClubWrapped - Open Source Member Statistics Application
+# ClubWrapped 
 
 ## Overview
-The ClubWrapped application generates fun statistics about member interactions within a community. By calculating and displaying various metrics based on predefined message data, this tool provides an entertaining way for members to engage with their communication patterns.
+A simple open source member statistics calculator. Current version is tied to one community and this repository exists solely for educational purposes.
